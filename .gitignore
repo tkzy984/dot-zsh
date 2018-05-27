@@ -1,0 +1,5 @@
+# .gitignore
+
+zsh.d/public/
+
+*.zwc
